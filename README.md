@@ -4,7 +4,7 @@ GalaxyTrading AI is an advanced, modular framework for analyzing cryptocurrency 
 
 ---
 
-## GalaxyTrading AI is powered by the Galaxy token on Solana
+## GalaxyTrading AI is powered by the Galaxy token on Ronin
 
 `galaxyAicEoKpi5e8Jdi2EV43piqAzzFwvH8AC3X9LiuKt`
 
